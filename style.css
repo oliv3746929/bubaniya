@@ -1,0 +1,71 @@
+select{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid lightgray;
+    font-size: 20px;
+}
+select option {
+    color: rgb(90, 90, 90);
+}
+body {
+    font-family: sans-serif;
+}
+ header a { text-decoration: none;
+ color: rgb(255, 255, 255);
+ 
+ }
+header{
+    background-color: rgba(85, 255, 0, 0.595);
+    padding: 5px;
+    border: 10px;
+ border-radius: 5px;
+}
+h1{ color: rgb(0, 13, 255);
+text-align: center;
+
+}
+footer { background-color: rgb(111, 0, 255);
+color: rgb(0, 0, 0);
+border: 10px;
+border-radius: 6px;
+padding: 3px;
+p
+}
+footer p { background-color: rgb(255, 255, 255);
+
+}
+nav { background-color:#5e9c31;
+
+}
+nav a{margin:20px;
+font-size:20px ;
+text-decoration: none;
+color: white;
+}
+
+.l { background-color:aquamarine ;
+border:10px;
+border-radius: 10px;
+
+}
+.p {
+     background-color:aquamarine ;
+border:10px;
+border-radius: 10px;
+}
+.a {
+     background-color:aquamarine ;
+border:10px;
+border-radius: 10px;
+}
+.s{
+     background-color:aquamarine ;
+border:10px;
+border-radius: 10px;
+}
+h2{
+   color:  rgb(0, 13, 255);
+}
+main{
+    margin: 20px;
+}
